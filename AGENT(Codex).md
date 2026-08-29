@@ -1,4 +1,4 @@
-# Source of Truth for My Frontier Assistant or Agent
+# Source of Truth for My Agent
 
 **Status:** Living, uncompressed source of truth from me, your developer-user.
 **Audience:** You, the coding agent.
